@@ -1,5 +1,14 @@
-## Getting started with RedisInsight
+## Getting started
 
+### 1. Download the repo as a Zip file
+
+
+    
+### 2. Create a Redis Cloud subscription
+
+
+
+### 3. Install & Configure RedisInsight
 ![SM Connect 01](./img/SM_Connect_01.png)
 
 ![SM Connect 02](./img/SM_Connect_02.png)

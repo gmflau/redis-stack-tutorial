@@ -9,14 +9,6 @@
   "children": [
     {
       "type": "internal-link",
-      "id": "getting_started_rc",
-      "label": "Getting Started with Redis Cloud",
-      "args": {
-        "path": "/redis_stack/getting_started.md"
-      }
-    },
-    {
-      "type": "internal-link",
       "id": "working_with_json",
       "label": "Working with JSON",
       "args": {
