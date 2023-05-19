@@ -10,7 +10,7 @@
     {
       "type": "internal-link",
       "id": "getting_started",
-      "label": "Getting Started",
+      "label": "Getting Started with Redis Cloud",
       "args": {
         "path": "/redis_stack/getting_started.md"
       }
