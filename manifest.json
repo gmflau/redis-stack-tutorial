@@ -9,6 +9,14 @@
   "children": [
     {
       "type": "internal-link",
+      "id": "getting_started",
+      "label": "Getting Started",
+      "args": {
+        "path": "/redis_stack/getting_started.md"
+      }
+    },
+    {
+      "type": "internal-link",
       "id": "working_with_json",
       "label": "Working with JSON",
       "args": {
