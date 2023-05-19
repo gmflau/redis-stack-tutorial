@@ -27,5 +27,9 @@ Follow this [link](https://docs.redis.com/latest/rc/rc-quickstart/#create-an-acc
     
 
 #### 4. Import & Run the tutorial 
+![RI DB Workbench Upload](./img/RI_DB_Workbench_Upload_01.png)
 
+![RI DB Workbench Select](./img/RI_DB_Workbench_Select_file.png)
+
+![RI DB Workbench Dialog](./img/RI_DB_Workbench_Dialog.png)
 
