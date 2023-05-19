@@ -1,7 +1,7 @@
 ## Getting started
 
 ### 1. Download the repo as a Zip file
-
+![Download repo zip](./img/Github_repo_zip.png)
 
     
 ### 2. Create a Redis Cloud subscription
