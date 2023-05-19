@@ -9,10 +9,18 @@
   "children": [
     {
       "type": "internal-link",
-      "id": "getting_started",
+      "id": "getting_started_rc",
       "label": "Getting Started with Redis Cloud",
       "args": {
         "path": "/redis_stack/getting_started.md"
+      }
+    },
+    {
+      "type": "internal-link",
+      "id": "getting_started_ri",
+      "label": "Getting Started with RedisInsight",
+      "args": {
+        "path": "/redisinsight/getting_started.md"
       }
     },
     {
