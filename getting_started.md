@@ -5,7 +5,7 @@
 
     
 ### 2. Create a Redis Cloud subscription
-
+Follow this [link](https://docs.redis.com/latest/rc/rc-quickstart/#create-an-account) through step 6. In step 4, choose Google Cloud. Then come back here to continue on section 3 below to install and configure RedisInsight.
 
 
 ### 3. Install & Configure RedisInsight
@@ -24,5 +24,8 @@
 ![RI DB Home](./img/RI_DB_Home.png)
 
 ![RI DB Workbench](./img/RI_DB_Workbench.png)
+    
+
+#### 4. Import & Run the tutorial 
 
 
