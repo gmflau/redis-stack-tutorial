@@ -17,14 +17,6 @@
     },
     {
       "type": "internal-link",
-      "id": "getting_started_ri",
-      "label": "Getting Started with RedisInsight",
-      "args": {
-        "path": "/redisinsight/getting_started.md"
-      }
-    },
-    {
-      "type": "internal-link",
       "id": "working_with_json",
       "label": "Working with JSON",
       "args": {
