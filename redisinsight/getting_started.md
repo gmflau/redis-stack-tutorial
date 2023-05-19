@@ -2,8 +2,6 @@
 
 ![SM Connect 01](./img/SM_Connect_01.png)
 
-![Download RedisInsight](./img/RI_download.png)
-
 ![SM Connect 02](./img/SM_Connect_02.png)
 
 ![RI Home](./img/RI_home.png)
