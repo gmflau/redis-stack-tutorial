@@ -16,6 +16,6 @@
 
 ![RI DB Home](./img/RI_DB_Home.png)
 
-![RI DB Workbench](/img/RI_DB_Workbench.png)
+![RI DB Workbench](./img/RI_DB_Workbench.png)
 
 
