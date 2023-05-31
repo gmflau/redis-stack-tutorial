@@ -1,51 +1,127 @@
 {
   "type": "group",
-  "id": "gml-tutorials",
-  "label": "Gilbert's TUTORIALS",
+  "id": "gr-tutorials",
+  "label": "Google/Redis Workshop",
   "args": {
     "withBorder": true,
     "initialIsOpen": true
   },
   "children": [
     {
-      "type": "internal-link",
-      "id": "working_with_json",
-      "label": "Working with JSON",
+      "type": "group",
+      "id": "redis_core",
+      "label": "Hands-on Exercises [CORE]",
       "args": {
-        "path": "/redis_stack/working_with_json.md"
-      }
+        "initialIsOpen": false
+      },
+      "children": [
+        {
+          "type": "internal-link",
+          "id": "strings",
+          "label": "String Exercises",
+          "args": {
+            "path": "/redis_core/strings.md"
+          }
+        },
+        {
+          "type": "internal-link",
+          "id": "hashes",
+          "label": "Hash Exercises",
+          "args": {
+            "path": "/redis_core/hashes.md"
+          }
+        },
+        {
+          "type": "internal-link",
+          "id": "string_hash_bonus",
+          "label": "Bonus questions",
+          "args": {
+            "path": "/redis_core/bonus-1.md"
+          }
+        },
+        {
+          "type": "internal-link",
+          "id": "rate_limiting",
+          "label": "Rate-Limiting",
+          "args": {
+            "path": "/redis_core/rate-limiting.md"
+          }
+        },
+        {
+          "type": "internal-link",
+          "id": "keeping_score",
+          "label": "Keeping Score",
+          "args": {
+            "path": "/redis_core/keeping_score.md"
+          }
+        },
+        {
+          "type": "internal-link",
+          "id": "lists_and_sets",
+          "label": "Lists and Sets",
+          "args": {
+            "path": "/redis_core/lists_and_sets.md"
+          }
+        },
+        {
+          "type": "internal-link",
+          "id": "streams",
+          "label": "Streams",
+          "args": {
+            "path": "/redis_core/streams.md"
+          }
+        }
+      ]
     },
     {
-      "type": "internal-link",
-      "id": "vector_similarity_search",
-      "label": "Vector Similarity Search",
+      "type": "group",
+      "id": "redis_stack",
+      "label": "Hands-on Exercises [STACK]",
       "args": {
-        "path": "/redis_stack/vector_similarity_search.md"
-      }
-    },
-    {
-      "type": "internal-link",
-      "id": "redis_for_time_series",
-      "label": "Redis for time series",
-      "args": {
-        "path": "/redis_stack/redis_for_time_series.md"
-      }
-    },
-    {
-      "type": "internal-link",
-      "id": "working_with_graphs",
-      "label": "Working with graphs",
-      "args": {
-        "path": "/redis_stack/working_with_graphs.md"
-      }
-    },
-    {
-      "type": "internal-link",
-      "id": "probabilistic_data_structures",
-      "label": "Probabilistic data structures",
-      "args": {
-        "path": "/redis_stack/probabilistic_data_structures.md"
-      }
+        "initialIsOpen": false
+      },
+      "children": [
+        {
+          "type": "internal-link",
+          "id": "working_with_json",
+          "label": "Working with JSON",
+          "args": {
+            "path": "/redis_stack/working_with_json.md"
+          }
+        },
+        {
+          "type": "internal-link",
+          "id": "vector_similarity_search",
+          "label": "Vector Similarity Search",
+          "args": {
+            "path": "/redis_stack/vector_similarity_search.md"
+          }
+        },
+        {
+          "type": "internal-link",
+          "id": "redis_for_time_series",
+          "label": "Redis for time series",
+          "args": {
+            "path": "/redis_stack/redis_for_time_series.md"
+          }
+        },
+        {
+          "type": "internal-link",
+          "id": "working_with_graphs",
+          "label": "Working with graphs",
+          "args": {
+            "path": "/redis_stack/working_with_graphs.md"
+          }
+        },
+        {
+          "type": "internal-link",
+          "id": "probabilistic_data_structures",
+          "label": "Probabilistic data structures",
+          "args": {
+            "path": "/redis_stack/probabilistic_data_structures.md"
+          }
+        }
+      ]
     }
   ]
 }
